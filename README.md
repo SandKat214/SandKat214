@@ -30,7 +30,9 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 
 #### I'm currently working on...
 
-A personal website to showcase my projects and track my progress. The site features the Chakra UI React component library for a sleek, responsive design and will incorporate Framer Motion for dynamic animations.
+* A personal website to showcase my projects and track my progress. The site features the Chakra UI React component library for a sleek, responsive design and will incorporate Framer Motion for dynamic animations.
+
+* A web application for medical offices to store patient data. It will use microservices for images, authentication, scheduling, and reminder emails.
 
 #### Fun Fact:
 
