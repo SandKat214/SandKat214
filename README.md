@@ -19,6 +19,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 
 #### I'm currently learning...
 
+* C
+* Linux
 * Python
 * JavaScript
 * HTML/CSS
@@ -27,6 +29,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 * Express.js
 * SQL
 * MongoDB
+* Agile/Scrum Methodologies
 
 #### I'm currently working on...
 
