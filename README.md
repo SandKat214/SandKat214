@@ -38,3 +38,10 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 #### Fun Fact:
 
 When I'm not coding, I enjoy doing something completely different: making pottery! 😎
+
+---
+**Email:** <sandeenk@oregonstate.edu>
+
+**Website:** [ksandeen.com](https://www.ksandeen.com)
+
+**Discord Username:** _sandkat
