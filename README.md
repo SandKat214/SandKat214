@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! Here, you'll find a collection of projects that showcase my learning journey across various technologies and frameworks. I’m particularly passionate about full stack development, with a focus on React for frontend design and MySQL for backend solutions. I’m always on the lookout for new and reliable learning resources outside of the classroom to further expand my skills and knowledge.
+Welcome to my GitHub profile! Here, you'll find a collection of projects that showcase my learning journey across various technologies and frameworks. I’m particularly passionate about full stack development, with a focus on React for frontend design and MongoDB for backend solutions. I’m always on the lookout for new and reliable learning resources outside of the classroom to further expand my skills and knowledge.
 
 #### I'm currently learning...
 
