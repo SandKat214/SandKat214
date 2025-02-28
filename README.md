@@ -19,6 +19,12 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 
 #### I'm currently learning...
 
+* ML Models w/ Scikit-learn
+* Plotting w/ Matplotlib/Seaborn
+* Blackbox Random Testing
+* Test-Driven Development
+
+<!--
 * C
 * Linux
 * Python
@@ -30,6 +36,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 * SQL
 * MongoDB
 * Agile/Scrum Methodologies
+-->
 
 #### I'm currently working on...
 
