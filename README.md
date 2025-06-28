@@ -19,10 +19,11 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 
 #### I'm currently learning...
 
-* ML Models w/ Scikit-learn
-* Plotting w/ Matplotlib/Seaborn
-* Blackbox Random Testing
-* Test-Driven Development
+* C# / .NET
+* TypeScript
+* GraphQL / Apollo Client
+* Next.js React Framework
+* Material UI & Ant Design Component Libraries
 
 <!--
 * C
@@ -36,6 +37,10 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 * SQL
 * MongoDB
 * Agile/Scrum Methodologies
+* ML Models w/ Scikit-learn
+* Plotting w/ Matplotlib/Seaborn
+* Blackbox Random Testing
+* Test-Driven Development
 -->
 
 #### I'm currently working on...
