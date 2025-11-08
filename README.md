@@ -19,33 +19,35 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 
 #### I'm currently learning...
 
-* C# / .NET
 * TypeScript
-* GraphQL / Apollo Client
-* Next.js React Framework
-* Material UI & Ant Design Component Libraries
+* Material UI Component Library for React
+* Basic Functionalities of the Internet Protocol Stack (Networks)
 
 <!--
-* C
-* Linux
-* Python
-* JavaScript
-* HTML/CSS
-* React JS
-* Node.js
-* Express.js
-* SQL
-* MongoDB
 * Agile/Scrum Methodologies
-* ML Models w/ Scikit-learn
-* Plotting w/ Matplotlib/Seaborn
+* Ant Design
 * Blackbox Random Testing
+* C
+* C# / .NET
+* Express.js
+* GraphQL / Apollo Client
+* HTML/CSS
+* JavaScript
+* Linux
+* ML Models w/ Scikit-learn
+* MongoDB
+* Next.js React Framework
+* Node.js
+* Plotting w/ Matplotlib/Seaborn
+* Python
+* React JS
+* SQL
 * Test-Driven Development
 -->
 
 #### I'm currently working on...
 
-* Incorporating Framer Motion into my personal website for dynamic animations.
+* A web-based social media application to help musicians find collaborators in their local community and beyond.
 
 #### Fun Fact:
 
